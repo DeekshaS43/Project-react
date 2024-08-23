@@ -1,0 +1,9 @@
+.card{
+text-align:center;
+background-color:rgb(255, 128, 0);
+color:white;
+width:50vh;
+border:2px solid black;
+height:280px;
+
+}

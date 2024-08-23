@@ -1,0 +1,14 @@
+
+nav{
+    display:flex;
+    background-color:aqua;
+  
+}
+
+ul{
+    display:flex;
+    gap:35px;
+}
+li{
+    list-style-type:none;
+}
